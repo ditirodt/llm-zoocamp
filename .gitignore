@@ -1,0 +1,17 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+ocr/
+
+# PDF files
+*.pdf
+
+# Images
+*.png
+# Checkpoints
+.ipynb_checkpoints
